@@ -6,6 +6,6 @@ This repository contains different data analytics visualizations (Tableau, Power
 This tableau file contains the analysis I did on an IPL dataset (2008-2019)
 <br>
 - Datasets Used: `matches.csv` and `deliveries.csv`
-<br>
+
 You can find the datasets [here](https://github.com/bitcrafty/global-datasets)
 
