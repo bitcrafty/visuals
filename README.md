@@ -1,6 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/bitcrafty/visuals/assets/135437223/6e7133ce-bad8-41c7-bf6d-0c8f0fe93850" alt="Visuals Logo" width="75">
-  <!-- Above Image is from StockIO Website-->
+  <img align="center" src="https://github.com/bitcrafty/visuals/assets/135437223/dddbdfc5-78eb-478f-9973-8ba59259827b" alt="Visuals Logo" width="90">
   <h1>Visuals</h1>
 </div>
 
